@@ -35,7 +35,7 @@ Este proyecto tiene como objetivo explorar diversas estrategias de ingeniería d
 
 ## Instrucciones para el Desarrollo
 
-El proyecto se ha desarrollado en un archivo Jupyter Notebook (NombreArchivo.ipynb) y se encuentra disponible en el siguiente repositorio de GitHub:
+El proyecto se ha desarrollado en un archivo Jupyter Notebook (Taller_2.ipynb) y se encuentra disponible en el siguiente repositorio de GitHub:
 
 [Enlace al Repositorio](https://github.com/gustavo198saavedra/Taller2)
 
